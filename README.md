@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+### Hi there 👋, my name is DevelLight
 ![I am GitHub Readme Generator's creator](https://github.com/DevelLight/DevelLight/blob/main/pe5X6lVq_4x.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
