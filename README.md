@@ -19,6 +19,8 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
+<br>
+<br>
 
 
 <p>Together we shape the future! I am DevelLight, a young visionary from Austria. Ever since I was a little kid I dreamed of making the world a better place, and now I'm on a mission to do just that! Soon it will start, but already now there are a few projects that will bring joy to Linux users. The future I will show you in 2025, the year when the world will be greener :) </p>
