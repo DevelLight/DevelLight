@@ -17,8 +17,8 @@ Together we shape the future! I am DevelLight, a young visionary from Austria. E
  <div align="center" dir="auto">
   <a href="https://github.com/TheRedstoneDEV-DE/VoiceAssistant/"></a>
  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=theredstonedev-de&repo=voiceassistant&border_color=#7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
-  <a href="[https://github.com/TheRedstoneDEV-DE/VoiceAssistant/](https://github.com/DevelLight/OpenSource-VoiceAssistent-Website)"></a>
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=devellight&repo=opensource-voiceassistent-website&border_color=#7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+  <a href="https://github.com/DevelLight/OpenSource-VoiceAssistent-Website"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=devellight&repo=opensource-voiceassistent-website&border_color=#7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /></a>
+
 </div>
      
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DevelLight)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devellight.github.io/OpenSource-VoiceAssistent-Website/)  
