@@ -27,7 +27,7 @@ Together we shape the future! I am DevelLight, a young visionary from Austria. E
  <div align="center" dir="auto">
   <a href="https://github.com/TheRedstoneDEV-DE/VoiceAssistant/">
    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=theredstonedev-de&repo=voiceassistant&border_color=#7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /></a>
-  <a href="https://github.com/TheRedstoneDEV-DE/PinguControll"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=devellight&repo=opensource-voiceassistent-website&border_color=#7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /> </a>
+  <a href="https://github.com/TheRedstoneDEV-DE/PinguControll"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=theredstonedev-de&repo=pingucontrollwebsite&border_color=#7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /> </a>
    <a href="https://github.com/DevelLight/RhythmRift"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=devellight&repo=rhythmrift&border_color=#7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /> </a>
       <a href="https://github.com/DevelLight/DistroCraft"> <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/pin/?username=devellight&repo=distrocraft&border_color=#7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /> </a>
 </div>
